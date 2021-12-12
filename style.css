@@ -1,0 +1,19 @@
+#app{
+    background-color:blueviolet;
+}
+.line{
+    height:6px;
+    width:70px;
+    background-color:coral;
+    margin:8px auto;
+
+}
+#game{
+    background-color:cornflowerblue;
+}
+#bot{
+    background-color:brown; 
+}
+body{
+    text-align: center;
+}
